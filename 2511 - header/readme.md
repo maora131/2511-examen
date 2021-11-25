@@ -1,5 +1,5 @@
 <h1>Examen Formaweb</h1>
-<p> Este ejercicio consiste en una página web de un portfolio ficticio con tres selectores principales: el about, works y contact. 
+<p> Este ejercicio consiste en una página web de un portfolio ficticio con tres selectores principales: el about, works y contact. Todo ello hecho mediante HTML, CSS y JS. 
 El primer apartado (about) consta de dos paneles, el izquierdo con una descripción personal (texto inventado) y la derecha una imgen con un resumen de la experiencia de la persona.
 La segunda página (works) simularía los trabajos, que por falta del tiempo solo son cuadros con hovers como si fueran imágenes.
 Por último, en Contact, estaría el formularia de contacto con una imagen en su interior.
